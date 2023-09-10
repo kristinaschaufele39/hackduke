@@ -2,6 +2,10 @@ import torch
 from flask import Flask
 from sentence_transformers import SentenceTransformer, util
 from annoy import AnnoyIndex
+import glob
+import json
+import os
+import pymongo
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -10,9 +14,16 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # List of file names or paths
 
-file_names = ["melville.txt", "trump.txt", "twain.txt", "romeo.txt", "bassapp.txt", "comingofage.txt", "cyberpolicy.txt", "econ.txt", "engageapp.txt", "graded.txt", "reflect.txt", "speech.txt", "therwordd.txt", "thinkfund.txt", "turtle.txt", "witapp.txt"];
-files_compiled = [];
 # Iterate over the list of file names
+for filename in glob.glob(f"{textfiles}/*.txt"):
+    print(filename)
+    with open(filename, "r") as file:
+        content = file.read()
+        # Insert content into MongoDB collection
+        db["documents"].insert_one({"filename": filename, "content": content})
+
+
+
 for file_name in file_names:
     try:
         # Open the file in read mode (you can use 'w' for write mode or 'a' for append mode)

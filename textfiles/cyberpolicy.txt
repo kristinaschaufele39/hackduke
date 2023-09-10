@@ -1,0 +1,21 @@
+﻿Existing Research on Data Brokers and National Security
+
+
+While some existing research focuses on data brokers and military servicemembers, there is much more research to be done. Most previous research focuses on data brokers and national security but with respect to data on all U.S. persons, rather than focusing on servicemembers as we do in this report. Research in both categories is described here.
+
+
+National security concerns over data brokers were reignited in 2020 during the debate in the U.S. over the banning of TikTok. Experts demonstrated concern over the large extent to which the Chinese government could otherwise acquire personal data, outside of collection through apps like TikTok and WeChat, and the risks associated with this data collection. University of Virginia professor and Trafficking Data author Aynne Kokas noted that social media platforms “do present significant and specific security risks,” and that “data exfiltration by Chinese firms from the United States is…pervasive.”[1]
+
+
+However, social media companies are only one method of data collection for foreign adversaries–data brokers offer similar data for sale on the open marketplace. Yale Law School senior fellow and China expert Samm Sacks has repeatedly stated that under current law, U.S. companies can sell or provide data to third-party data brokers, which in turn could simply provide data to foreign actors.[2] Caitlin Chin at the Center for Strategic & International Studies (CSIS) think tank has written that the data brokerage industry “is generally unforthcoming about the specific identities or locations of their clients, so the full extent of data brokerage partnerships with foreign governments is currently unknown.”[3] Former FTC lawyer Whitney Merrill has said of TikTok that “China could buy similar mobile data from data brokers or ad networks” and that “most ad networks are collecting the same, if not worse, information” as what is collected by TikTok.[4] A NATO StratCom report notes that brokers frequently provide data to buyers “without significant screening” and that malicious actors could obtain data from data brokers by exploiting the companies’ often “insufficient cybersecurity practices.”[5]Two Singapore-based national security analysts wrote in 2020 that “the amount of data stored with data brokers opens them to be prime targets of cyberattacks from state or non-state actors.”[6]
+
+
+
+
+________________
+[1] Aynne Kokas, “China already has your data. Trump’s TikTok and WeChat bans can’t stop that,” The Washington Post, August 11, 2020, https://www.washingtonpost.com/outlook/2020/08/11/tiktok-wechat-bans-ineffective/.
+[2] Kevin Roose, “Don’t Ban TikTok. Make an Example of It,” The New York Times, July 26, 2020, https://www.nytimes.com/2020/07/26/technology/tiktok-china-ban-model.html.
+[3] Caitlin Chin, “U.S. Digital Privacy Troubles Do Not Start or End with TikTok,” Center for Strategic & International Studies, October 6, 2022, https://www.csis.org/analysis/us-digital-privacy-troubles-do-not-start-or-end-tiktok.
+[4] Kevin Collier, “TikTok a privacy threat? Sure, but so are most of your smartphone apps,” NBC, July 13, 2020, https://www.nbcnews.com/tech/security/tiktok-privacy-threat-sure-so-are-most-your-smartphone-apps-n1233625.
+[5] Ibid., 14, 20.
+[6] Dymples Leong and Teo Yi-Ling, “Data Brokers: A Weak Link in National Security,” The Diplomat, August 21, 2020, https://thediplomat.com/2020/08/data-brokers-a-weak-link-in-national-security/.

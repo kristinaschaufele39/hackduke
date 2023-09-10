@@ -1,0 +1,24 @@
+﻿Unregulated Health Insurance  
+
+
+We learned about the two different kinds of equilibrium and how they give treatments. A pooling equilibrium assigns everyone the same treatment regardless of risk profile while a separating equilibrium differentiates based on risk. We also discussed how this could negatively affect people who are already struggling, like low-income, older, and ill people.
+ 
+In health care, the probability that someone will need considerable health care over the coming year can be predicted with a good degree of accuracy based on the person’s age and current health status. Age is easily observed by health insurance companies, and health insurance companies could require a health exam prior to signing a health insurance contract with a customer. 
+ 
+1. Suppose health insurance is provided in a perfectly competitive, unregulated market in which health insurance companies can observe age and health status (through health exams). Will the resulting equilibrium be a pooling or a separating equilibrium?
+The equilibrium will be separating because the companies have access to the patients’ health and age, so they can create different risk profiles and treat people differently.
+ 
+2. Suppose health insurance companies were not allowed to do health exams prior to signing a health insurance contract with customers – but customers could voluntarily agree to allow health insurance companies to access their health records prior to agreeing to provide insurance. Does your answer change? What’s different now?
+The equilibrium will be pooling because the insurance companies cannot trust the people who aren’t providing their information, so they will charge universally higher prices for everyone regardless of their actual age and health states. This means that different types of people will end up with the same treatment.
+ 
+3. In the perfectly competitive equilibrium, do different prices for health insurance arise depending on who is applying for the insurance? If so, how is this an equilibrium? (An equilibrium in economics describes the outcome that we expect to see when everyone is doing the best they can given their circumstances and given what everyone else does.) Why don’t health insurance companies that charge a high price to someone face competition from another health insurance company that will underbid that high price?
+It is a separating equilibrium, because different prices will arise based on who is applying (older people and people with more underlying health issues will have higher prices, etc). This means that they are being treated differently based on their risk profile. Companies that charge higher prices do not face competition because other companies do not want to take on that risk without appropriate coverage.
+ 
+4. People of different ages, different health status and different income levels purchase (or don’t purchase) health insurance. In the competitive equilibrium in this exercise, who are the people who are most likely to end up without health insurance?
+Older people, people with more health issues, and low-income people are most likely to end up without health insurance because companies won’t want to undertake that risk.
+ 
+5. Health insurance in private markets is sold for the coming year. Suppose that instead, health insurance were sold only one time – when someone becomes 18 for the rest of the person’s life. (There could be financing options that allow people to borrow what they need to pay for such a lifetime policy.) In a world where 18-year olds rationally think about the future and no one had any pre-existing health issues at the age of 18, would the equilibrium be a separating or a pooling equilibrium? 
+This would be a pooling equilibrium because everyone is receiving the same treatment because there are no discernible differences between individuals. So people who end up having different risk profiles are still treated the same.
+ 
+6. In what way does the annual nature of an unregulated health insurance market (where people choose each year whether to buy health insurance for then next year) create a problem that does not arise if an unregulated health insurance market where rational and healthy 18-year olds make lifetime contracts for health insurance? 
+ It exacerbates inequities that lower income, older, and at-risk people face because it creates exorbitantly high prices for communities that are already struggling with other issues.
