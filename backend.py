@@ -13,7 +13,7 @@ with open(file_path, 'r') as file:
     text = file.read()
 
 # Split the text into words
-words = text.split()
+words = text.split() #split words
 file.close();
 
 embeddings = model.encode(words, convert_to_tensor=True) # words --> array from reading text file
